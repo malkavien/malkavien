@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Rafael
 
-<!--
-**malkavien/malkavien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend com mais de 5 anos de experiência em:
+- Node.js / TypeScript
+- APIs REST, Webhooks, Integrações com sistemas externos
+- Banco de dados SQL e NoSQL
+- AWS, Docker, CI/CD
 
-Here are some ideas to get you started:
+🎯 Em busca de novas oportunidades!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malkavien&show_icons=true&theme=radical)
+
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rafael-rodrigues-04184757/)
+[![Email](https://img.shields.io/badge/Email-hello%40exemplo.com-red?style=flat)](mailto:rafael.pomeu@gmail.com)
