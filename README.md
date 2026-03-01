@@ -23,7 +23,7 @@
 ---
 
 ### ⚡ Curiosidades
-- 🔍 Estou em busca de novas oportunidades backend!
+- 🔍 Sou colaborador na Linkdesign, muito feliz com isso!
 - 🧠 Estudando arquitetura de microsserviços e mensageria
 - 🕹️ Nas horas vagas: RPG, puzzles e IA
 
