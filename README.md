@@ -26,9 +26,7 @@
 
 ### ⚡ Curiosidades
 - 🧠 Estudando arquitetura de microsserviços e mensageria
-- 🐱🐶Entre commits e deploys, ainda sobra tempo pra cuidar de um gato exigente e uma cadela carente. 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+- 🐱🐶Entre commits e deploys, ainda sobra tempo pra cuidar de um gato exigente e uma cadela carente.
 
 ---
 
