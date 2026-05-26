@@ -8,6 +8,8 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -23,9 +25,10 @@
 ---
 
 ### ⚡ Curiosidades
-- 🔍 Sou colaborador na Linkdesign, muito feliz com isso!
 - 🧠 Estudando arquitetura de microsserviços e mensageria
-- 🕹️ Nas horas vagas: RPG, puzzles e IA
+- 🐱🐶Entre commits e deploys, ainda sobra tempo pra cuidar de um gato exigente e uma cadela carente. 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
 
 ---
 
