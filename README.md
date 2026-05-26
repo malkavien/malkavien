@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rafael!
 
-💻 Desenvolvedor Backend com mais de 5 anos de experiência, apaixonado por resolver problemas reais com código limpo, performático e escalável.
+💻 Desenvolvedor Backend com mais de 5 anos de experiência criando APIs, integrações e sistemas escaláveis com foco em performance e código limpo.
 
 ---
 
